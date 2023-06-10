@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <title>3P1C's Mahjong site</title>
+  <meta name="keywords" content="麻将 Mahjong 麻雀 日麻 役种">
+  <meta name="description" content="3P1C's Mahjong site">
+  <meta http-equiv="Content-type" content="text/html;charset=GB2312">
+</head>
+
+<body>
+
+<!-- Main content -->
+
+
+<h4>数字部分役：一色顺子</h4>
+
+<font size=-1>
+<ol>
+
+
+<li><p><a name="3_13_123123">
+<b>一般高</b>
+<br>&nbsp&nbsp同一色的两组相同顺子
+<br>&nbsp&nbsp（123 123型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“一盃口”、“通二顺”。
+
+<li><p><a name="3_13_123123w">
+<b>同色两般高</b>
+<br>&nbsp&nbsp同一色两个一般高
+<br>&nbsp&nbsp例型：<img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>(参见<a href=3_14.html#3_14_123123w>两般高</a>)
+
+
+<li><p><a name="3_13_123234">
+<b>一色二步高</b>
+<br>&nbsp&nbsp同一色的两组顺子，相距一个数字
+<br>&nbsp&nbsp（123 234型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+
+<li><p><a name="3_13_123456">
+<b>连六</b>
+<br>&nbsp&nbsp同一色的两组顺子，相距三个数字
+<br>&nbsp&nbsp（123 456型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒>  <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“半条龙”。
+
+<li><p><a name="3_13_123789">
+<b>老少配</b>
+<br>&nbsp&nbsp同一色的两组顺子，相距六个数字
+<br>&nbsp&nbsp（123 789型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin9.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+
+<li><p><a name="3_13_123789w">
+<b>同色老少双顺</b>
+<br>&nbsp&nbsp同一色两个老少配
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin9.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin9.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>(参见<a href=3_14.html#3_14_123789w>老少双顺</a>)
+
+<li><p><a name="3_13_123123123">
+<b>一色三顺</b>
+<br>&nbsp&nbsp同一色的三组相同顺子
+<br>&nbsp&nbsp（123 123 123型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“太般高”、“通三顺”。
+
+<li><p><a name="3_13_123234345">
+<b>一色三步高</b>
+<br>&nbsp&nbsp同一色的三组顺子，之间分别相距一个数字
+<br>&nbsp&nbsp（123 234 345型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒> <img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">  <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“丘三顺”。
+
+<li><p><a name="3_13_123345567">
+<b>一色三步高（乙）</b>
+<br>&nbsp&nbsp同一色的三组顺子，之间分别相距二个数字
+<br>&nbsp&nbsp（123 345 567型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">  <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“山三顺”、“连环套”。
+
+<li><p><a name="3_13_123456789">
+<b>一气通贯</b>
+<br>&nbsp&nbsp同一色的三组顺子，之间分别相距三个数字
+<br>&nbsp&nbsp（123 456 789型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">  <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“一条龙”“清龙”。
+
+<li><p><a name="3_13_123123123123">
+<b>一色四顺</b>
+<br>&nbsp&nbsp同一色的四组相同顺子
+<br>&nbsp&nbsp（123 123 123 123型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“四连太宝”“四海一家”、“通四顺”。
+
+<li><p><a name="3_13_123234345567">
+<b>一色四步高</b>
+<br>&nbsp&nbsp同一色的四组顺子，之间分别相距一个数字
+<br>&nbsp&nbsp（123 234 345 567型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒> <img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒>   <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：又名“连顺和”。
+
+<li><p><a name="3_13_123345567789">
+<b>金门桥</b>
+<br>&nbsp&nbsp同一色的四组顺子，之间分别相距二个数字
+<br>&nbsp&nbsp（123 345 567 789型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒>   <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+
+<li><p><a name="3_13_123456w">
+<b>凯旋门</b>
+<br>&nbsp&nbsp同色的两个<a href=3_13.html#3_13_123456>连六</a>
+<br>&nbsp&nbsp例型：<img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒> <img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒>  <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+
+<li><p><a name="3_13_123456789123">
+<b>青龙在天</b>
+<br>&nbsp&nbsp一气通贯·一般高
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+<br>注：当一般高顺子为123时又名“双头龙”；当一般高顺子为789时又名“双尾龙”。
+
+<li><p><a name="3_13_123456789234">
+<b>接龙头</b>
+<br>&nbsp&nbsp一气通贯·同花色的234
+<br>&nbsp&nbsp例型：<img src=../pai/pin4.gif alt=四筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+
+<li><p><a name="3_13_123456789678">
+<b>续龙尾</b>
+<br>&nbsp&nbsp一气通贯·同花色的678
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt="">
+
+
+<li><p><a name="3_13_12334556788">
+<b>节外生枝</b>
+<br>&nbsp&nbsp同一色的三组顺子，之间分别相距一或二个数字，且雀头为连续数字。
+<br>&nbsp&nbsp（123 234 345 66 或 123 345 567 88型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒><img src=../pai/pin7.gif alt=七筒>  <img src=../pai/pin8.gif alt=八筒><img src=../pai/pin8.gif alt=八筒> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> 
+
+<li><p><a name="3_13_12323434545677">
+<b>平步青云（顺子版）</b>
+<br>&nbsp&nbsp同一色的四组顺子，之间分别相距一个数字，且雀头为连续数字。
+<br>&nbsp&nbsp（123 234 345 456 77 型）
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒> <img src=../pai/pin3.gif alt=三筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒> <img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒>  <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin7.gif alt=七筒>
+
+<li><p><a name="3_13_12345678987655">
+<b>全靠</b>
+<br>&nbsp&nbsp某门花色的清一色，四顺子与雀头的数字依次相连。
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin3.gif alt=三筒> <img src=../pai/pin4.gif alt=四筒><img src=../pai/pin5.gif alt=五筒><img src=../pai/pin6.gif alt=六筒> <img src=../pai/pin7.gif alt=七筒><img src=../pai/pin8.gif alt=八筒><img src=../pai/pin9.gif alt=九筒> <img src=../pai/pin8.gif alt=八筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/pin6.gif alt=六筒> <img src=../pai/pin5.gif alt=五筒><img src=../pai/pin5.gif alt=五筒>
+
+
+
+</ol>
+
+
+
+<hr>
+
+<address> Last modified: 
+<script language="javascript" type="text/javascript"> document.write(document.lastModified); </script>
+<a href=http://net-glyph.org/~litaoyu/3p1c/ target=_top>3P1C</a>
+</address>
+
+</font>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7928571-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body>
+</html>

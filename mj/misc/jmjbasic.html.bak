@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <meta http-equiv="Content-type" content="text/html;charset=GB2312">
+</head>
+
+
+<body>
+
+<!-- Main content -->
+
+
+<h4>日麻超入门FAQ</h4>
+
+
+<font size=-1>
+
+<p>　　最近有不少朋友开始打日麻，而来向我询问有关的规则。虽然网上介绍日麻规则的文章并不少，不过似乎大家还是会嫌介绍文章太长……于是就干脆把最近经常回答的，一些最基本的问题整理成这个FAQ。基本上，看完这个FAQ的话能对日麻有基本的了解，并且差不多能没什么问题的打打日麻游戏……更多的东西还请参阅其余资料或者在实践中学习。
+
+<p>　　不过话说回来，最近越来越觉得日麻不适合做普及，如果能当面牌聚的话，还是打<a href=http://home.netvigator.com/~tarot/Mahjong/ZungJung/book_hk/1.0%20zj32_rules_hk.html target=_blank>中庸</a>吧……
+
+<p><b>Q: 本FAQ适用于什么人群？</b>
+<br>A: 对麻将有基本了解（知道四面子一雀头），对日麻完全不了解而在玩电子版日麻游戏的人。
+
+<p><b>Q: 那些假名都是什么意思？</b>
+<br>A: チー：吃　ポン：碰　カン：杠　ロン：点炮和　ツモ：自摸和　フリコミ：点炮
+<br>　 知道这些应该就够了吧……另外还有一些后面会说。
+
+<p><b>Q: 我为什么不能胡牌？</b>
+<br>A: 基本上，日麻要求<b>有番才能胡</b>，和了牌型需要满足一定条件，具体请见下文。
+<br>　 另外，如果明明有番还不能胡牌的，请注意自己是否打过自己所听的牌，或者是否处于其余的<a href=#friten>振听</a>状态。
+
+<p><b>Q: 那么，怎么才能搞到番？</b>
+<br>A: 最常见的做法是保持门前清（不吃不碰不明杠）到听牌，然后宣告リーチ（立直）。
+<br>　 这样和了时会获得立直的一番。注意立直后不能换牌。
+
+<p><b>Q: 唔……那么就是不能吃碰了？</b>
+<br>A: 并不是这样的。只要能够有番的话，吃碰也没有关系。最常见的允许吃碰的翻种有：
+<br>　　役牌：手牌中有三元牌、门风牌或者场风牌的刻子/杠子。
+<br>　　　　（场风牌：根据当前为东场/南场而为东或南，仔细在桌子上找找应该能找到指示牌）
+<br>　　　　（门风牌：庄家为东，庄家的下家为南，对家为西，上家为北）
+<br>　　断幺九：手牌没有一、九与字牌。（注意：部分规则中断幺九不允许吃碰，称为食断なし规则）
+<br>　　对对和：手牌全都是刻子而没有顺子。
+<br>　　混一色：手牌全都是筒/索/万中的一种，加上字牌。
+<br>　　清一色：手牌全都是筒/索/万中的一种。
+
+<p>　　除此以外，还有不少其余的<a href=http://5dots.jpmahjong.net/japanese_mahjong_yaku1.html target=_blank>翻种</a>，建议在实践中慢慢学习。
+
+<p><b>Q: 什么是ドラ？</b>
+<br>A: 一局开始前，牌山中会有一张牌被翻出，这张牌被称为<b>ドラ指示牌</b>，它的下一张被称为<b>ドラ</b>。
+<br>　 和牌时手牌有ドラ的话，会获得额外的加分。
+<br>　　例：指示牌<img src=../pai/haigam/pin3m.gif alt=三筒>->ドラ<img src=../pai/haigam/pin4m.gif alt=四筒>；
+<img src=../pai/haigam/man9m.gif alt=九万>-><img src=../pai/haigam/man1m.gif alt=一万>；
+<img src=../pai/haigam/tonm.gif alt=东>-><img src=../pai/haigam/nanm.gif alt=南>；
+<img src=../pai/haigam/peim.gif alt=北>-><img src=../pai/haigam/tonm.gif alt=东>；
+<img src=../pai/haigam/hakum.gif alt=白>-><img src=../pai/haigam/hatum.gif alt=发>；
+<img src=../pai/haigam/hatum.gif alt=发>-><img src=../pai/haigam/tyunm.gif alt=中>；
+<img src=../pai/haigam/tyunm.gif alt=中>-><img src=../pai/haigam/hakum.gif alt=白>；
+
+<p><b>Q: 为什么有的牌是红色的？</b>
+<br>A: 部分规则会使用数张红色的五筒、五索和五万，称作<b>赤ドラ</b>。效果和ドラ一样。
+
+<p><b>Q: 点数是怎么计算的？</b>
+<br>A: 由于历史原因，点数计算规则相当复杂。基本上知道
+<br>　 1. 8000点以下，每一翻得点加倍。
+<br>　 2. 当翻数为2-5翻，点数达到8000点以上称满贯，点数固定为8000。
+<br>　 3. 翻数6翻以上时，得点只与翻数有关，并且通常翻数增加2-3点数才会提高一个台阶。
+<br>　 4. 庄家（称"亲"）和了点数是闲家（称"子"）的1.5倍。
+<br>   更加具体的规则，请参见<a href=http://5dots.jpmahjong.net/japanese_mahjong2.html target=_blank>点数计算</a>。
+
+<p><b>Q: 为什么一局结束的时候四家+的总点数和-的总点数不一样？</b>
+<br>A: 事实上，在リーチ的时候，是会扔出1000点到场上的，本局的和了者得到这1000点。因此结算时会发生加减点总和不同的情形。
+
+<p><b>Q: 为什么自摸的时候三家给的点数不一样？</b>
+<br>A: 闲家自摸时，庄家付点数为另外两闲家的两倍。
+
+<a name=friten>
+<p><b>Q: フリテン是什么意思？</b>
+<br>A: 汉字为"振听"，是指在特定状态下只允许自摸和了的情形，包括：
+<br>　 1. 自己打过的牌中，包括自己所听的牌。
+<br>　 2. 自己上次自摸以来，别家打出过自己所听的牌，但是却被放过。
+<br>　 3. 自己立直以来，别家打出过自己所听的牌，但是却被放过。
+
+</font>
+
+<hr>
+<address> Last modified: 
+<script language="javascript" type="text/javascript"> document.write(document.lastModified); </script>
+<a href=http://net-glyph.org/~litaoyu/3p1c/ target=_top>3P1C</a>
+
+</address>
+
+</body>
+</html>

@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <title>3P1C's Mahjong site</title>
+  <meta name="keywords" content="麻将 Mahjong 麻雀 日麻 役种">
+  <meta name="description" content="3P1C's Mahjong site">
+  <meta http-equiv="Content-type" content="text/html;charset=GB2312">
+</head>
+
+<body>
+
+<!-- Main content -->
+
+
+<h4>待牌系</h4>
+
+<font size=-1>
+<ol>
+<li><p><a name="3_02_01">
+<b>边张听</b>
+<br>&nbsp&nbsp听牌为边张形
+<br>&nbsp&nbsp例型：<img src=../pai/wan1.gif alt=一万><img src=../pai/wan2.gif alt=二万> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> 和<img src=../pai/wan3.gif alt=三万>
+
+<li><p><a name="3_02_02">
+<b>嵌张听</b>
+<br>&nbsp&nbsp听牌为嵌张形
+<br>&nbsp&nbsp例型：<img src=../pai/wan2.gif alt=二万><img src=../pai/wan4.gif alt=四万> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> 和<img src=../pai/wan3.gif alt=三万>
+
+
+<li><p><a name="3_02_03">
+<b>单骑听</b>
+<br>&nbsp&nbsp听牌为单骑形
+<br>&nbsp&nbsp例型：<img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""><img src=../pai/back1-1.gif alt=""> <img src=../pai/wan8.gif alt=八万> 和<img src=../pai/wan8.gif alt=八万>
+
+<li><p><a name="3_02_04">
+<b>四暗刻单骑</b>
+<br>&nbsp&nbsp四暗刻的单骑型和牌
+<br>&nbsp&nbsp例型：<img src=../pai/pin2.gif alt=二筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin2.gif alt=二筒><img src=../pai/pin9.gif alt=九筒><img src=../pai/pin9.gif alt=九筒><img src=../pai/pin9.gif alt=九筒><img src=../pai/sou7.gif alt=七索><img src=../pai/sou7.gif alt=七索><img src=../pai/sou7.gif alt=七索><img src=../pai/ji3.gif alt=西><img src=../pai/ji3.gif alt=西><img src=../pai/ji3.gif alt=西><img src=../pai/ji5.gif alt=白> 和<img src=../pai/ji5.gif alt=白>
+<br>注：又名“簡簡和”、“Concealed Treasure（隐藏的财宝）”等，部分规则限定必须自摸、部分规则要求没有暗杠。
+<br>&nbsp&nbsp(参见<a href=3_04.html#3_04_08>四暗刻</a>)
+
+<li><p><a name="3_02_05">
+<b>纯正九莲宝灯</b>
+<br>&nbsp&nbsp九莲宝灯的九面听牌型和牌
+<br>&nbsp&nbsp例型：<img src=../pai/wan1.gif alt=一万><img src=../pai/wan1.gif alt=一万><img src=../pai/wan1.gif alt=一万><img src=../pai/wan2.gif alt=二万><img src=../pai/wan3.gif alt=三万><img src=../pai/wan4.gif alt=四万><img src=../pai/wan5.gif alt=五万><img src=../pai/wan6.gif alt=六万><img src=../pai/wan7.gif alt=七万><img src=../pai/wan8.gif alt=八万><img src=../pai/wan9.gif alt=九万><img src=../pai/wan9.gif alt=九万><img src=../pai/wan9.gif alt=九万> 和<img src=../pai/wan1.gif alt=一万>
+<br>&nbsp&nbsp(参见<a href=3_15.html#3_15_02>九莲宝灯</a>)
+
+<li><p><a name="3_02_06">
+<b>十三面国士无双</b>
+<br>&nbsp&nbsp国士无双的十三面听牌型和牌
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin9.gif alt=九筒><img src=../pai/sou1.gif alt=一索><img src=../pai/sou9.gif alt=九索><img src=../pai/wan1.gif alt=一万><img src=../pai/wan9.gif alt=九万><img src=../pai/ji1.gif alt=东><img src=../pai/ji2.gif alt=南><img src=../pai/ji3.gif alt=西><img src=../pai/ji4.gif alt=北><img src=../pai/ji5.gif alt=白><img src=../pai/ji6.gif alt=发><img src=../pai/ji7.gif alt=中> 和<img src=../pai/ji7.gif alt=中>
+<br>&nbsp&nbsp(参见<a href=>国士无双</a>)
+
+<li><p><a name="3_02_07">
+<b>十六面千客万来</b>（十六张麻将役种，创作役）
+<br>&nbsp&nbsp千客万来的十三面听牌型和牌
+<br>&nbsp&nbsp例型：<img src=../pai/pin1.gif alt=一筒><img src=../pai/pin4.gif alt=四筒><img src=../pai/pin7.gif alt=七筒><img src=../pai/sou2.gif alt=二索><img src=../pai/sou5.gif alt=五索><img src=../pai/sou8.gif alt=八索><img src=../pai/wan3.gif alt=三万><img src=../pai/wan6.gif alt=六万><img src=../pai/wan9.gif alt=九万><img src=../pai/ji1.gif alt=东><img src=../pai/ji2.gif alt=南><img src=../pai/ji3.gif alt=西><img src=../pai/ji4.gif alt=北><img src=../pai/ji5.gif alt=白><img src=../pai/ji6.gif alt=发><img src=../pai/ji7.gif alt=中> 和<img src=../pai/ji7.gif alt=中>
+<br>&nbsp&nbsp(参见<a href=>千客万来</a>)
+
+<li><p><a name="3_02_08">
+<b>和绝张</b>
+<br>&nbsp&nbsp所和之牌为绝张（另外三张都已经在场上出现）
+<br>注：又名“欠牌和”。
+
+<li><p><a name="3_02_08a">
+<b>双和绝张</b>
+<br>&nbsp&nbsp两面听，两面张均为绝张
+
+<li><p><a name="3_02_09">
+<b>独听</b>
+<br>&nbsp&nbsp只听一张牌
+
+<li><p><a name="3_02_51">
+<b>嵌五</b>
+<br>&nbsp&nbsp嵌张听某门花色的五和了
+<br>注：又名“捉五魁”。
+
+<li><p><a name="3_02_52">
+<b>五龙鸣动</b>
+<br>&nbsp&nbsp万子门前清一色，独听五万和了。
+
+<li><p><a name="3_02_53">
+<b>五心通贯</b>
+<br>&nbsp&nbsp一气通贯嵌五和了。
+
+<li><p><a name="3_02_54">
+<b>二四六号国道</b>
+<br>&nbsp&nbsp和二/四/六中一个，并因此构成一气通贯。
+
+<li><p><a name="3_02_55">
+<b>金鸡独立（狭义）</b>
+<br>&nbsp&nbsp<img src=../pai/haigam/sou1m.gif alt="一索">裸单骑和了
+
+<li><p><a name="3_02_56">
+<b>独钓寒江雪</b>
+<br>&nbsp&nbsp<img src=../pai/haigam/hakum.gif alt="白">的裸单骑和了
+
+<li><p><a name="3_02_57">
+<b>巨人马场</b>
+<br>&nbsp&nbsp门清、手牌含9的暗刻、8的双碰和了
+
+<li><p><a name="3_02_58">
+<b>Superman</b>
+<br>&nbsp&nbsp四万与八万的双碰和了
+
+<li><p><a name="3_02_59">
+<b>客来和</b>
+<br>&nbsp&nbsp客风牌和了
+
+<li><p><b>万事俱备，只欠东风</b>
+<br>&nbsp&nbsp手牌包含四副万子，单骑<img src=../pai/haigam/tonm.gif alt=东>和了。
+
+<li><p><b>钓金龟</b>
+<br>&nbsp&nbsp<img src=../pai/haigam/sou7m.gif alt="七索">单骑和了
+
+<li><p><b>钓银龟</b>
+<br>&nbsp&nbsp<img src=../pai/haigam/sou5m.gif alt="五索">单骑和了
+
+<li><p><b>钓铜龟</b>
+<br>&nbsp&nbsp<img src=../pai/haigam/sou3m.gif alt="三索">单骑和了
+
+<li><p><b>借问酒家何处有</b>
+<br>&nbsp&nbsp数字九单骑和了
+
+<li><p><b>断桥残雪</b>
+<br>&nbsp&nbsp对对和，<img src=../pai/haigam/sou2m.gif alt=二索>与<img src=../pai/haigam/hakum.gif alt=白>对碰和了。
+
+</ol>
+
+
+
+<p>注：这部分手役的特殊点在于成立与否与哪张牌是最终和了牌相关。
+<p>　　对于边张听、嵌张听、单骑听三个役种，需要注意的是在部分规则（例如国标）中这三个役的成立必须要求“独听”；
+<br>即像<img src=../pai/haigam/sou1m.gif alt="一索"><img src=../pai/haigam/sou2m.gif alt="二索"><img src=../pai/haigam/sou3m.gif alt="三索"><img src=../pai/haigam/sou4m.gif alt="四索">听<img src=../pai/haigam/sou1m.gif alt="一索"><img src=../pai/haigam/sou4m.gif alt="四索">的“延单”型不会被视为单骑听。
+
+
+
+<hr>
+
+<address> Last modified: 
+<script language="javascript" type="text/javascript"> document.write(document.lastModified); </script>
+<a href=http://net-glyph.org/~litaoyu/3p1c/ target=_top>3P1C</a>
+</address>
+
+</font>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7928571-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body>
+</html>
